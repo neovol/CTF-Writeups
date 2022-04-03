@@ -1,8 +1,6 @@
----
-description: TryHackMe - BluePrint
----
-
 # Blueprint
+
+## [https://tryhackme.com/room/blueprint](https://tryhackme.com/room/blueprint)
 
 ## Scanning
 
